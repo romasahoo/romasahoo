@@ -20,7 +20,7 @@
 #### I am best in ❤
 
 <p>
-<img alt="C#" src="https://img.shields.io/badge/-C#-505050?style=flat&logo=JavaScript&logoColor=F7DF1E" />
+<img alt="C#" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg" />
 <img alt=".NET" src="https://img.shields.io/badge/-.NET-007ACC?style=flat&logo=typeScript&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" />
 <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=Html5&logoColor=white" />
